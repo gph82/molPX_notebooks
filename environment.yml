@@ -1,0 +1,12 @@
+name: working-enviroment
+
+channels:
+  - omnia
+
+dependencies:
+  - python=3.4
+  - mdtraj # this dependency should not be here but IDK how else to do this
+  - matplotlib
+  - numpy
+  - pip:
+    - molpx
