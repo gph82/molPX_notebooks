@@ -2,4 +2,3 @@ molpx
 pyemma
 matplotlib
 numpy
-mdtraj
